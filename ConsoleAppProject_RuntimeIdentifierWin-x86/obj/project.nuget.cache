@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WA+ItSj8+oaDjY69gnatXAs3qajvkAZ+zfrXaDq9MH7O5xkDdyQY0Iatd8jSqmmE0B5McoflZ0PuXh5vh9swbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anastasiia.Posulikhi\\Desktop\\TFMUnderSDK5Check\\ConsoleAppProject_RuntimeIdentifierWin-x86\\ConsoleAppProject_RuntimeIdentifierWin-x86.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.1\\microsoft.netcore.app.runtime.win-x86.5.0.1.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.1\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.1.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.1\\microsoft.aspnetcore.app.runtime.win-x86.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

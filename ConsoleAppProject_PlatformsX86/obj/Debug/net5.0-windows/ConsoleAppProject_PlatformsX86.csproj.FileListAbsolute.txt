@@ -1,0 +1,16 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\ConsoleAppProject_PlatformsX86\bin\Debug\net5.0-windows\ConsoleAppProject_PlatformsX86.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\ConsoleAppProject_PlatformsX86\bin\Debug\net5.0-windows\ConsoleAppProject_PlatformsX86.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\ConsoleAppProject_PlatformsX86\bin\Debug\net5.0-windows\ConsoleAppProject_PlatformsX86.runtimeconfig.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\ConsoleAppProject_PlatformsX86\bin\Debug\net5.0-windows\ConsoleAppProject_PlatformsX86.runtimeconfig.dev.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\ConsoleAppProject_PlatformsX86\bin\Debug\net5.0-windows\ConsoleAppProject_PlatformsX86.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\ConsoleAppProject_PlatformsX86\bin\Debug\net5.0-windows\ref\ConsoleAppProject_PlatformsX86.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\ConsoleAppProject_PlatformsX86\bin\Debug\net5.0-windows\ConsoleAppProject_PlatformsX86.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\ConsoleAppProject_PlatformsX86\obj\Debug\net5.0-windows\ConsoleAppProject_PlatformsX86.csprojAssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\ConsoleAppProject_PlatformsX86\obj\Debug\net5.0-windows\ConsoleAppProject_PlatformsX86.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\ConsoleAppProject_PlatformsX86\obj\Debug\net5.0-windows\ConsoleAppProject_PlatformsX86.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\ConsoleAppProject_PlatformsX86\obj\Debug\net5.0-windows\ConsoleAppProject_PlatformsX86.AssemblyInfo.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\ConsoleAppProject_PlatformsX86\obj\Debug\net5.0-windows\ConsoleAppProject_PlatformsX86.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\ConsoleAppProject_PlatformsX86\obj\Debug\net5.0-windows\ConsoleAppProject_PlatformsX86.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\ConsoleAppProject_PlatformsX86\obj\Debug\net5.0-windows\ref\ConsoleAppProject_PlatformsX86.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\ConsoleAppProject_PlatformsX86\obj\Debug\net5.0-windows\ConsoleAppProject_PlatformsX86.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\ConsoleAppProject_PlatformsX86\obj\Debug\net5.0-windows\ConsoleAppProject_PlatformsX86.genruntimeconfig.cache

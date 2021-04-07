@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net5.0-windows</TargetFramework>
+        <RootNamespace>ConsoleAppProject_RuntimeIdentifierWin_x86</RootNamespace>
+    </PropertyGroup>
+
+    <PropertyGroup>
+        <RuntimeIdentifier>win-x86</RuntimeIdentifier>
+    </PropertyGroup>
+
+</Project>

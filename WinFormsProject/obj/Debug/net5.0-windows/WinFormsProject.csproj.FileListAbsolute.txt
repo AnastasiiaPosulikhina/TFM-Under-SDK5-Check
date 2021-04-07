@@ -1,0 +1,16 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\WinFormsProject\bin\Debug\net5.0-windows\WinFormsProject.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\WinFormsProject\bin\Debug\net5.0-windows\WinFormsProject.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\WinFormsProject\bin\Debug\net5.0-windows\WinFormsProject.runtimeconfig.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\WinFormsProject\bin\Debug\net5.0-windows\WinFormsProject.runtimeconfig.dev.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\WinFormsProject\bin\Debug\net5.0-windows\WinFormsProject.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\WinFormsProject\bin\Debug\net5.0-windows\ref\WinFormsProject.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\WinFormsProject\bin\Debug\net5.0-windows\WinFormsProject.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\WinFormsProject\obj\Debug\net5.0-windows\WinFormsProject.csprojAssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\WinFormsProject\obj\Debug\net5.0-windows\WinFormsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\WinFormsProject\obj\Debug\net5.0-windows\WinFormsProject.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\WinFormsProject\obj\Debug\net5.0-windows\WinFormsProject.AssemblyInfo.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\WinFormsProject\obj\Debug\net5.0-windows\WinFormsProject.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\WinFormsProject\obj\Debug\net5.0-windows\WinFormsProject.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\WinFormsProject\obj\Debug\net5.0-windows\ref\WinFormsProject.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\WinFormsProject\obj\Debug\net5.0-windows\WinFormsProject.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\TFMUnderSDK5Check\WinFormsProject\obj\Debug\net5.0-windows\WinFormsProject.genruntimeconfig.cache
